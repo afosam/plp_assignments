@@ -1,4 +1,4 @@
-# 🧮 Simple Unique Calculator
+Simple Unique Calculator
 
 x = float(input("First number: "))
 y = float(input("Second number: "))
